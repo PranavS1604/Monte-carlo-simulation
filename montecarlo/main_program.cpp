@@ -1,4 +1,5 @@
 #include "header.hpp"
+#include "implementation.cpp"
 
 int main() {
     srand(static_cast<unsigned int>(time(0)));
