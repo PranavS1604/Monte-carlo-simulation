@@ -7,7 +7,7 @@ The method used here involves simulating points inside a square with side length
 
 - The quarter circle has a radius of 1, and its area is π/4.
 - The area of the square is 1.
-- The ratio of points falling inside the quarter circle to the total number of points in the square gives an estimate of π/4).
+- The ratio of points falling inside the quarter circle to the total number of points in the square gives an estimate of π/4.
 
 ## Steps in the Estimation Process
 1. **Generate Random Points:**  
