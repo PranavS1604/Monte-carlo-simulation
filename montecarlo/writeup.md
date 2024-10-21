@@ -5,7 +5,7 @@ The Monte Carlo method is a powerful computational algorithm that uses randomnes
 ## Overview of the Algorithm
 The method used here involves simulating points inside a square with side lengths of 1 unit. By checking how many of these random points lie inside a quarter circle inscribed in the square, we can estimate the ratio between the areas of the circle and the square, which in turn is related to the value of Pi.
 
-- The quarter circle has a radius of 1, and its area is π/4).
+- The quarter circle has a radius of 1, and its area is π/4.
 - The area of the square is 1.
 - The ratio of points falling inside the quarter circle to the total number of points in the square gives an estimate of π/4).
 
