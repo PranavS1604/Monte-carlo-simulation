@@ -39,7 +39,7 @@ This error gives an indication of how close the estimation is to the actual valu
 - Requires a large number of points to achieve high precision.
 - Not the most efficient algorithm for calculating π compared to other mathematical techniques.
 
-  **Blog Links**
+**Blog Links**
   https://www.notion.so/Monte-Carlo-Simulation-12638cff63fc8090bd88ee44c95f7c10
 
 ## Conclusion
