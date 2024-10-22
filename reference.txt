@@ -1,0 +1,4 @@
+1) We understood the algorithm or theory of algorithm with the help of this video : https://www.youtube.com/watch?v=VNdft7460Sg
+2) https://en.wikipedia.org/wiki/Monte_Carlo_method#:~:text=Monte%20Carlo%20methods%2C%20or%20Monte,might%20be%20deterministic%20in%20principle.
+3) https://www.investopedia.com/terms/m/montecarlosimulation.asp
+4) https://en.wikipedia.org/wiki/Monte_Carlo_method#/media/File:Pi_monte_carlo_all.gif
