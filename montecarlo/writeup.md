@@ -39,5 +39,8 @@ This error gives an indication of how close the estimation is to the actual valu
 - Requires a large number of points to achieve high precision.
 - Not the most efficient algorithm for calculating π compared to other mathematical techniques.
 
+  **Blog Links**
+  https://www.notion.so/Monte-Carlo-Simulation-12638cff63fc8090bd88ee44c95f7c10
+
 ## Conclusion
 The Monte Carlo method demonstrates the effectiveness of using randomness to solve mathematical problems. Although it may not be the fastest method for estimating Pi, it serves as an excellent example of statistical simulation. The accuracy improves with an increase in the number of random samples, making it a valuable tool for approximate solutions in complex scenarios.
